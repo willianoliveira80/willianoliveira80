@@ -12,9 +12,11 @@ Com muito orgulho vejo os projetos ganhando vida e impactando todos usuários, a
 
 ### Conecte-se comigo:
 
+<p>
 <a href="https://www.linkedin.com/in/willian-roberto-de-oliveira/>
 <img align="left" alt="LinkdIn" widt="22px" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
+</p>
 
 
 
