@@ -1,6 +1,8 @@
 ## Hi there :pencil2:
 
-Eu sou Willian Oliveira, sou Programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou Willian Oliveira, sou Programador Front End, atualmente estou aprendendo e criando projetos com HTML, HTML5, CSS e JavaCsript, utilizando essas tecnologias para criar sites e aplicações web. E com muito orgulho vendo os projetos ganhando vida e impactando todos usuários.
+Estou na buscando constante por inovações, a Programação me permite criar soluções inovadoras e projetos desafiadores.
+
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
