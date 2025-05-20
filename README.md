@@ -1,5 +1,7 @@
 ## Olá :pencil2:
-Sou Willian Oliveira, um Programador Front-End apaixonado por transformar ideias em experiências digitais dinâmicas e intuitivas. Estou em um momento emocionante de transição de carreira, onde venho dedicando-me integralmente a aprimorar minhas habilidades e construir projetos inovadores utilizando, HTML5, CSS e JavaScript.
+Sou Willian Oliveira, um Programador Front-End apaixonado por transformar ideias em experiências digitais dinâmicas e intuitivas. 
+
+Estou em um momento emocionante de transição de carreira, onde venho dedicando-me integralmente a aprimorar minhas habilidades e construir projetos inovadores utilizando, HTML5, CSS e JavaScript.
 
 Minha paixão pela tecnologia é impulsionada pela busca constante por inovação e pela satisfação de ver meus projetos ganhando vida. Utilizo essas tecnologias para desenvolver sites responsivos e aplicações web interativas, sempre com o objetivo de impactar positivamente os usuários.
 
